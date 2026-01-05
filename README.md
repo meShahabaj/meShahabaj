@@ -49,7 +49,7 @@ I have successfully delivered end-to-end solutions combining **React, TypeScript
 
 ---
 
-### Data Science Intern | Futures Intern (2025)
+### Data Science Intern
 
 * Analyzed **7,000+ salary records** across 20+ job roles to identify compensation drivers
 * Trained and evaluated multiple ML models; selected **CatBoost** as best performer
