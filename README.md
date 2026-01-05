@@ -38,18 +38,7 @@ I have successfully delivered end-to-end solutions combining **React, TypeScript
 
 ## 💼 Professional Experience
 
-### Full Stack Web Development Intern | Futures Intern (2025)
-
-* Built and deployed scalable full-stack applications using **React, Node.js, and FastAPI**
-* Designed secure REST APIs with **JWT authentication and RBAC**
-* Implemented modular architecture and reusable components for maintainability
-* Collaborated in a team environment to deliver production-ready solutions
-
-**Tech Stack:** React, TypeScript, FastAPI, Tailwind CSS, OpenCV, YOLO
-
----
-
-### Data Science Intern
+### Data Science Intern | Futures Intern (2025)
 
 * Analyzed **7,000+ salary records** across 20+ job roles to identify compensation drivers
 * Trained and evaluated multiple ML models; selected **CatBoost** as best performer
