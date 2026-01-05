@@ -1,6 +1,6 @@
 # Shahabaj Khan
 
-## Full Stack Developer | Machine Learning Engineer
+## ML Engineer with Web Stack Expertise
 
 📧 Email: [shahabaj773@gmail.com](mailto:shahabaj773@gmail.com)
 📞 Phone: +91 9336934551
