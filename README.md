@@ -4,7 +4,7 @@
 
 📧 Email: [shahabaj773@gmail.com](mailto:shahabaj773@gmail.com)
 📞 Phone: +91 9336934551
-🌐 Portfolio: [https://shahabaj.onrender.com](https://shahabaj.onrender.com)
+🌐 Portfolio: [https://shahabaj.onrender.com](https://shahabaj.vercel.app)
 🔗 LinkedIn: [https://www.linkedin.com/in/shahabaj-khan](https://www.linkedin.com/in/shahabaj-khan)
 💻 GitHub: [https://github.com/meShahabaj](https://github.com/meShahabaj)
 
